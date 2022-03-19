@@ -1,5 +1,4 @@
 {
-  "name": "henrybthomson/my-new-project",
   "timeout": 10000,
   "connector": false,
   "events": {}
